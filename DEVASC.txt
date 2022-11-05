@@ -1,0 +1,6 @@
+
+Estoy en camino para pasar el examen DEVASC de devnet 
+
+
+Estoy empezando a entender git!
+Este texto se agrego originalmente en la rama de caracteristicas
